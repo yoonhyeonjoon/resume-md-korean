@@ -8,7 +8,7 @@
 
 <br>
 
-<span style="font-family:sans-serif;  font-weight: 700;  margin: 3rem; font-size: 1.2rem; letter-spacing: -.05rem; ">
+<span style="font-family:sans-serif;  font-weight: 700;  font-size: 1.2rem; letter-spacing: -.05rem; ">
 
 Computer language의 Reusability와 Extensibility에 대한 끊임없는 탐구와 구현을 갈구하는 컴퓨터 엔지니어입니다. <br>
 저는 제가 경험하는 Computer System과 Design Architecture의 Operating philosophy에 대한 이해와 그에 따른 구현을 즐깁니다. <br>
