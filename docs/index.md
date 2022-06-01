@@ -2,7 +2,7 @@
 
 <br>
 
-## Basic CrossBar V12
+## Basic CrossBar V123
 
 ```scala
   the case of XBarV1(3, 4, 12), numIns = 3, numOut = 4, width = 12
