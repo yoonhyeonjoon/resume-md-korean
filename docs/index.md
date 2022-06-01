@@ -2,12 +2,7 @@
 
 <br>
 
-Most of the design of this page originated from
-https://github.com/agile-hw/lectures/blob/main/15-network/lec15-network.ipynb
-
-example package path :scala/chiselExample/crossBar
-
-## Basic CrossBar V1
+## Basic CrossBar V12
 
 ```scala
   the case of XBarV1(3, 4, 12), numIns = 3, numOut = 4, width = 12
